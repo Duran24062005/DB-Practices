@@ -1,3 +1,9 @@
+-- Sql operators
+    -- Mayor que >
+    -- Menor que <
+    -- Diferente <>
+    -- Igual a =
+
 SELECT * FROM sakila.actor;
 
 -- Selecciona todos los registros que cumplan la condición de llamarse 'PENELOPE'
