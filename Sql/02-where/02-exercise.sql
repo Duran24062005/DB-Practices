@@ -1,0 +1,1 @@
+SELECT * FROM sakila.inventory WHERE film_id > 50;
